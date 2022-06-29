@@ -1,0 +1,9 @@
+ScanId;Id;Event;EventDate;Message
+61f20990-d9de-4226-9997-f68b2d56cf0f;6;PostScanStatusChange;02/22/2022 13:28:36;From Queued to Running
+61f20990-d9de-4226-9997-f68b2d56cf0f;7;PostScanStatusChange;02/22/2022 13:28:36;From Running to Finished
+61f20990-d9de-4226-9997-f68b2d56cf0f;2;PreScanStatusChange;02/22/2022 13:27:37;Set to Queued
+61f20990-d9de-4226-9997-f68b2d56cf0f;3;PreScanStatusChange;02/22/2022 13:27:38;From Queued to Running
+61f20990-d9de-4226-9997-f68b2d56cf0f;4;PreScanStatusChange;02/22/2022 13:27:41;From Running to Finished
+61f20990-d9de-4226-9997-f68b2d56cf0f;1;ScanStatusChange;02/22/2022 13:27:37;Set to Queued
+61f20990-d9de-4226-9997-f68b2d56cf0f;5;ScanStatusChange;02/22/2022 13:27:41;From Queued to Running
+61f20990-d9de-4226-9997-f68b2d56cf0f;8;ScanStatusChange;02/22/2022 13:28:36;From Running to Finished

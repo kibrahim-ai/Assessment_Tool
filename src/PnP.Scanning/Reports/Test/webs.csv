@@ -1,0 +1,8 @@
+StartDate;EndDate;Status;Template;ScanId;SiteUrl;WebUrl
+02/22/2022 13:27:42;02/22/2022 13:28:01;Finished;GROUP#0;61f20990-d9de-4226-9997-f68b2d56cf0f;https://bertonline.sharepoint.com/sites/prov-1;/
+02/22/2022 13:27:42;02/22/2022 13:27:58;Failed;STS#0;61f20990-d9de-4226-9997-f68b2d56cf0f;https://bertonline.sharepoint.com/sites/prov-1;/bäüößcc
+02/22/2022 13:27:58;02/22/2022 13:28:19;Finished;STS#0;61f20990-d9de-4226-9997-f68b2d56cf0f;https://bertonline.sharepoint.com/sites/prov-1;/bäüößcc/subsub1
+02/22/2022 13:28:01;02/22/2022 13:28:15;Finished;STS#0;61f20990-d9de-4226-9997-f68b2d56cf0f;https://bertonline.sharepoint.com/sites/prov-1;/sub2
+02/22/2022 13:28:15;02/22/2022 13:28:35;Finished;STS#0;61f20990-d9de-4226-9997-f68b2d56cf0f;https://bertonline.sharepoint.com/sites/prov-1;/testsub1
+02/22/2022 13:27:42;02/22/2022 13:27:59;Finished;GROUP#0;61f20990-d9de-4226-9997-f68b2d56cf0f;https://bertonline.sharepoint.com/sites/prov-2;/
+02/22/2022 13:27:42;02/22/2022 13:28:03;Finished;STS#0;61f20990-d9de-4226-9997-f68b2d56cf0f;https://bertonline.sharepoint.com/sites/prov-2;/subsite
