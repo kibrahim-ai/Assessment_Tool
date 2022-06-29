@@ -1,0 +1,19 @@
+- name: Introduction
+  href: readme.md
+- name: Download
+  href: download.md
+- name: Authentication
+  href: setupauth.md
+- name: Use the Microsoft 365 Assessment tool
+  href: assess.md
+  items:
+    - name: Start an assessment 
+      href: assess-start.md
+    - name: Create assessment report
+      href: assess-report.md
+    - name: Stop the assessment tool
+      href: assess-stop.md
+    - name: Assessment tool options 
+      href: assess-operations.md
+- name: Configuration
+  href: configuration.md
